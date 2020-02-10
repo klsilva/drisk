@@ -1,0 +1,106 @@
+<SEPARATOR> ","
+<NAMESINFRONT>
+UF 2 "."
+    <RECODABLE>
+    <HOUSEHOLD>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+cod_mun 5 "."
+    <RECODABLE>
+    <HOUSEHOLD>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+apond 13 "."
+    <RECODABLE>
+    <HOUSEHOLD>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+controle 8 "."
+    <HOUSE_ID>
+macro 1 "."
+    <RECODABLE>
+    <HOUSEHOLD>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+meso 2 "."
+    <RECODABLE>
+    <HOUSEHOLD>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+micro 3 "."
+    <RECODABLE>
+    <HOUSEHOLD>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+rm 2 "."
+    <RECODABLE>
+    <HOUSEHOLD>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+situacao 1 "."
+    <RECODABLE>
+    <HOUSEHOLD>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+relacao 2 "."
+    <RECODABLE>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+num_pes 2 "."
+    <RECODABLE>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+sexo 1 "."
+    <RECODABLE>
+    <IDLEVEL> 2
+    <SUPPRESSPRIORITY> 50
+idade 3 "."
+    <RECODABLE>
+    <IDLEVEL> 2
+    <SUPPRESSPRIORITY> 50
+num_fam 2 "."
+    <RECODABLE>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+npes_fam 2 "."
+    <RECODABLE>
+    <IDLEVEL> 0
+    <SUPPRESSPRIORITY> 50
+cor_raca 1 "."
+    <RECODABLE>
+    <IDLEVEL> 2
+    <SUPPRESSPRIORITY> 50
+dificul_ouv 1 "."
+    <RECODABLE>
+    <IDLEVEL> 3
+    <SUPPRESSPRIORITY> 50
+dificul_cam 1 "."
+    <RECODABLE>
+    <IDLEVEL> 3
+    <SUPPRESSPRIORITY> 50
+dificul_enx 1 "."
+    <RECODABLE>
+    <IDLEVEL> 3
+    <SUPPRESSPRIORITY> 50
+UF_nasc 7 "."
+    <RECODABLE>
+    <IDLEVEL> 2
+    <SUPPRESSPRIORITY> 50
+pais_nasc 7 "."
+    <RECODABLE>
+    <IDLEVEL> 3
+    <SUPPRESSPRIORITY> 50
+instrucao 1 "."
+    <RECODABLE>
+    <IDLEVEL> 2
+    <SUPPRESSPRIORITY> 50
+est_civil 1 "."
+    <RECODABLE>
+    <IDLEVEL> 1
+    <SUPPRESSPRIORITY> 50
+rendimento 6 "."
+    <NUMERIC>
+peso 16 "."
+    <NUMERIC>
+    <DECIMALS> 13
+    <WEIGHT>
