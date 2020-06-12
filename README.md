@@ -1,1 +1,11 @@
-# drisk
+# Avaliação do Risco de Revelação em Microdados: Análise dos Microdados do Censo Demográfico 2010
+
+## Resumo 
+
+Em decorrência do aumento da capacidade de processamento, associada à facilidade de acesso viabilizada pela internet, grandes volumes de dados sobre pessoas, instituições, etc., têm sido coletados e estão disponíveis na internet. Se por um lado, isto aumenta a transparência e a possibilidade de estudos e análises, por outro lado, pode revelar dados sobre a vida íntima e privada de pessoas e instituições, constituindo-se em um conflito ético que precisa ser estudado e mediado. No caso específico dos Institutos Nacionais de Estatística, esse conflito surge da necessidade de maximizar a informação disseminada, em especial microdados essenciais para o desenvolvimento do conhecimento científico, sem permitir a revelação dos seus informantes, o que, além de ferir princípios éticos, reduziria a cooperação nas pesquisas futuras e constituiria um desrespeito à legislação estatística. 
+
+Assim, os Institutos Nacionais de Estatística possuem a obrigação de disseminar dados com utilidade elevada e, simultaneamente com risco de revelação pequeno. Para lidar com esse conflito, métodos de Controle Estatístico de Revelação têm sido estudados e recomendados internacionalmente. No entanto, poucos Institutos Nacionais de Estatística realizam uma avaliação abrangente do risco de revelação nos microdados que disseminam, optando pelo uso de julgamentos subjetivos, experiências passadas e regras ad hoc, por exemplo. 
+
+O objetivo desta dissertação é entrar no meio desse conflito e avaliar o risco de revelação dos microdados da amostra do Censo Demográfico 2010 – versão mais recente de uma das principais pesquisas do Instituto Brasileiro de Geografia e Estatística. Para isto foram utilizados os métodos relacionados à “Abordagem Italiana”, baseada principalmente nos pesos amostrais, e à “Regra do Limiar”, em particular com a estimação da probabilidade de ser único na população dado que é único na amostra. 
+
+Os resultados obtidos sinalizam para a necessidade de maiores estudos e aplicação de técnicas mais protetivas – mascaramento, geração de dados sintéticos, ou distintos conjuntos de microdados sem possibilidade de relacionamento entre seus registros – antes de disseminar os microdados de suas pesquisas. 
